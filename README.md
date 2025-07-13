@@ -25,3 +25,5 @@ This is a classic two-player Tic-Tac-Toe game built using HTML, CSS, and JavaScr
 - Responsive design for all screen sizes
 - Prevent moves after game ends
 
+## Live Demo
+👉 [Click here to view it live] https://adityasingh213.github.io/Tic-Tac-Toe-Game/
