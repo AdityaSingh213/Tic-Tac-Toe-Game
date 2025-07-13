@@ -7,7 +7,7 @@ Tic-Tac-Toe Game
 - HTML
 - CSS
 - JavaScript
-- 
+
 ## 📖 Project Description
 This is a classic two-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript. It allows players to alternate turns, displays game results, and provides an interactive, responsive interface suitable for both desktop and mobile devices.
 
